@@ -1,4 +1,4 @@
-### Olá, tudo bem? Eu sou o Elias Fausto de Souza
+### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.
 
 - 🔭 A procura de Estágio em engenharia de software
 - 🌱 Estudando Engenharia de Software na PUC-CAMPINAS 2º Semestre

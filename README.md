@@ -1,7 +1,10 @@
 ### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.
 
 - 🔭 A procura de Estágio em engenharia de software
-- 🌱 Estudando Engenharia de Software na PUC-CAMPINAS 2º Semestre
+- 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 2º Semestre
+- 🎯 Interesse: Python, C++, HTML, CSS .
+
+##
 
  <div>
   <a href="https://github.com/Elias-FS">

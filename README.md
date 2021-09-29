@@ -1,8 +1,9 @@
-### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.
+### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.<img align="right" alt="Elias-Python" height="175" width="300" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
 - 🔭 A procura de Estágio em engenharia de software
 - 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 2º Semestre
 - 🎯 Interesse: Python, C++, HTML, CSS .
+- 🎉 Hobbys: Gosto de tocar saxofone alto 🎷 e jogar 🎮 com os amigos.
 
 ##
 
@@ -15,7 +16,10 @@
   <img align="center" alt="Elias-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elias-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elias-cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Elias-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> 
   <img align="center" alt="Elias-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  
+ 
 
 ##
   
@@ -26,5 +30,4 @@
   <a href="https://www.instagram.com/elias_fs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 ![Snake animation](https://github.com/Elias-FS/Elias-FS/blob/output/github-contribution-grid-snake.svg)
-
 </div>

@@ -17,6 +17,8 @@
   <img align="center" alt="Elias-cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Elias-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> 
   <img align="center" alt="Elias-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+ <img align="center" alt="Elias-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
   
  
 

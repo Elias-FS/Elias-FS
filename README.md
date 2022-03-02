@@ -1,8 +1,7 @@
 ### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.<img align="right" alt="Elias-Python" height="150" width="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
-- 🔭 A procura de Estágio em engenharia de software
 - 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 2º Semestre
-- 🎯 Interesse: Python, C++, HTML, CSS .
+- 🎯 Interesse: Python, C++, HTML, CSS, JavaScript .
 - 🎉 Hobbys: Gosto de tocar saxofone alto 🎷 e jogar 🎮 com os amigos.
 
 ##

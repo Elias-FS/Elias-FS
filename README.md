@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.<img align="right" alt="Elias-Python" height="150" width="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
-- 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 3º Semestre
-- 🎯 Interesse: Python, C++, HTML, CSS, JavaScript, Kotlin .
+- 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 5º Semestre
+- 🎯 Interesse: Python, HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, MongoDB.
 - 🎉 Hobbys: Gosto de tocar saxofone alto 🎷 e jogar 🎮 com os amigos.
 
 ##
@@ -15,11 +15,8 @@
   <img align="center" alt="Elias-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elias-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Elias-cplusplus" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Elias-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /> 
-  <img align="center" alt="Elias-Oracle" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
  <img align="center" alt="Elias-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="center" alt="Elias-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
  <img align="center" alt="Elias-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
  </div>
  

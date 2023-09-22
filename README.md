@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Eu sou o Elias Fausto de Souza e este é o meu GitHub.<img align="right" alt="Elias-Python" height="150" width="250" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
-- 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 5º Semestre
+- 👨‍🎓 Estudante em Engenharia de Software na PUC-CAMPINAS 6º Semestre
 - 🎯 Interesse: Python, HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, MongoDB.
 - 🎉 Hobbys: Gosto de tocar saxofone alto 🎷 e jogar 🎮 com os amigos.
 
